@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="219c8cad-0418-4bbc-b27a-1fc3b718f650" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GOTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/davecgh/go-spew/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/davecgh/go-spew/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/davecgh/go-spew/@v/v1.1.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/davecgh/go-spew/@v/v1.1.1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-contrib/sse/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-contrib/sse/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-contrib/sse/@v/v0.1.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/gin/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/gin/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/gin/@v/v1.6.3.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/assert/v2/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/assert/v2/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/assert/v2/@v/v2.0.1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/locales/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/locales/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/locales/@v/v0.13.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/universal-translator/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/universal-translator/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/universal-translator/@v/v0.17.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/v10.2.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/v10.6.1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/golang/protobuf/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/golang/protobuf/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/golang/protobuf/@v/v1.3.3.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/golang/protobuf/@v/v1.5.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/golang/protobuf/@v/v1.5.2.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/go-cmp/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/go-cmp/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/go-cmp/@v/v0.5.5.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/gofuzz/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/gofuzz/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/gofuzz/@v/v1.0.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/json-iterator/go/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/json-iterator/go/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/json-iterator/go/@v/v1.1.11.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/json-iterator/go/@v/v1.1.9.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/leodido/go-urn/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/leodido/go-urn/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/leodido/go-urn/@v/v1.2.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/leodido/go-urn/@v/v1.2.1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/v0.0.12.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/v0.0.13.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/concurrent/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/concurrent/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/concurrent/@v/v0.0.0-20180228061459-e0a39a4cb421.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/concurrent/@v/v0.0.0-20180306012644-bacd9c7ef1dd.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/v0.0.0-20180701023420-4b7aa43c6742.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/v1.0.1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pmezard/go-difflib/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pmezard/go-difflib/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pmezard/go-difflib/@v/v1.0.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/objx/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/objx/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/objx/@v/v0.1.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.3.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.4.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.6.1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/@v/v1.1.7.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/@v/v1.2.6.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/v1.1.7.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/v1.2.6.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/v0.0.0-20190308221718-c2843e01d9a2.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/v0.0.0-20200622213623-75b288015ac9.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/v0.0.0-20210616213533-5ff15b29337e.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/v0.0.0-20190404232315-eb5bcb51f2a3.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/v0.0.0-20210226172049-e18ecbb05110.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20190215142949-d0b11bdaac8a.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20190412213103-97732733099d.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20200116001909-b77594299b42.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20201119102817-f84b799fce68.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20210615035016-665e8c7367d1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20210616094352-59db8d763f22.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/v0.0.0-20201126162022-7de9c90e9dd1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/text/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/text/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/text/@v/v0.3.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/text/@v/v0.3.2.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/text/@v/v0.3.3.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/text/@v/v0.3.6.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/v0.0.0-20180917221912-90fa682c2a6e.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/xerrors/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/xerrors/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/xerrors/@v/v0.0.0-20191204190536-9bdfabe68543.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/v1.26.0-rc.1.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/v1.26.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/v1.27.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/check.v1/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/check.v1/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/check.v1/@v/v0.0.0-20161208181325-20d25e280405.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/v2.2.2.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/v2.2.8.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/v2.4.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/v3.0.0-20200313102051-9f266ea9e77c.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/118.杨辉三角.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/12.整数转罗马数字.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/121.买卖股票的最佳时机.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1252.奇数值单元格的数目.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/128.最长连续序列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/13.罗马数字转整数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/131.分割回文串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1383.最大的团队表现值.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1389.按既定顺序创建目标数组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/14.最长公共前缀.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/141.环形链表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1482.制作-m-束花所需的最少天数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/15.三数之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/155.最小栈.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16.最接近的三数之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1621.大小为-k-的不重叠线段的数目.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1662.检查两个字符串数组是否相等.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17.电话号码的字母组合.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18.四数之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19.删除链表的倒数第-n-个结点.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/190.颠倒二进制位.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/191.位-1-的个数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/198.打家劫舍.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/20.有效的括号.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/204.计数质数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/206.反转链表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21.合并两个有序链表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/216.组合总和-iii.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22.括号生成.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/23.合并k个升序链表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/234.回文链表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/237.删除链表中的节点.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/27.移除元素.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/278.第一个错误的版本.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/279.完全平方数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/3.无重复字符的最长子串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/338.比特位计数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/383.赎金信.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/384.打乱数组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4.寻找两个正序数组的中位数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/412.fizz-buzz.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/427.建立四叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/461.汉明距离.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/5.最长回文子串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/524.通过删除字母匹配到字典里最长单词.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/53.最大子序和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/538.把二叉搜索树转换为累加树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/6.z-字形变换.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/60.排列序列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/70.爬楼梯.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/77.组合.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/793.阶乘函数后-k-个零.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/9.回文数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/976.三角形的最大周长.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selete.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestGO/.idea/TestGO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beeGo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="sortBySeverity" value="false" />
+  </component>
+  <component name="ProjectId" id="1s3PoIhtpZvCpgGZDah72ACuRht" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go 构建.go build 31.下一个排列.go">
+    <configuration name="go build 131.分割回文串.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/131.分割回文串.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 22.括号生成.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/22.括号生成.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 23.合并k个升序链表.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/23.合并k个升序链表.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 27.移除元素.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/27.移除元素.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 31.下一个排列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/31.下一个排列.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build 31.下一个排列.go" />
+        <item itemvalue="Go 构建.go build 27.移除元素.go" />
+        <item itemvalue="Go 构建.go build 23.合并k个升序链表.go" />
+        <item itemvalue="Go 构建.go build 22.括号生成.go" />
+        <item itemvalue="Go 构建.go build 131.分割回文串.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
